@@ -1,0 +1,52 @@
+body {
+    margin-top: 0;
+}
+
+a {
+    color: lightsteelblue;
+    text-decoration: none;
+}
+
+nav {
+    display: table-cell;
+    margin: 0;
+    padding: 0;
+    height: 5vh;
+    vertical-align: middle;
+}
+
+nav a {
+    margin-left: 4em;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    padding: 5vmin;
+    padding-top: 0;
+}
+
+.image {
+    display: flex;
+    margin: 0;
+    flex-grow: 1;
+    justify-content: center;
+}
+
+.image img {
+    max-height: 85vh;
+    max-width: 85vw;
+}
+
+.description {
+    flex-grow: 4;
+}
+
+.youtube {
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: -999999px;
+}

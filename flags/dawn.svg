@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ❤ -->
+<svg version="1.1" width="63in" height="36in" viewBox="0 0 154 88" xmlns="http://www.w3.org/2000/svg">
+  <title>The Flag of Dawn Lynn Hufford</title>
+  <desc>
+    A flag of three feet high by five feet and three inches wide emblazoned
+    with vert five barrulets argent a lozenge of the second a coney sniffant
+    voided of the first.
+  </desc>
+  <metadata xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:creator>Josh Hufford</dc:creator>
+        <dc:date>2015-09-24</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:language>en</dc:language>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+
+  <style type="text/css">
+    .background { fill: white; }
+    .foreground { fill: #007f09; }
+  </style>
+  
+  <!-- Background -->
+  <rect class="background" width="154" height="88"/>
+  
+  <!-- Stripes -->
+  <g class="foreground">
+    <rect x="0" y="0"  width="100%" height="8"/>
+    <rect x="0" y="16" width="100%" height="8"/>
+    <rect x="0" y="32" width="100%" height="8"/>
+    <rect x="0" y="48" width="100%" height="8"/>
+    <rect x="0" y="64" width="100%" height="8"/>
+    <rect x="0" y="80" width="100%" height="8"/>
+  </g>
+  
+  <!-- Diamond -->
+  <polygon class="background" points="
+     77  0
+    121 44
+     77 88
+     33 44"/>
+  
+  <!-- Rabbit -->    
+  <path class="foreground" d="
+    M 73.8048 25.2666
+    C 73.8048 25.2666
+      74.7147 23.3823
+      75.2004 22.2939
+    S 76.3532 19.3856
+      76.7774 18.7186
+    S 80.7185 15.0788
+      82.5998 15.9888
+    C 84.4811 16.8987
+      81.4471 17.7472
+      81.2656 19.0814
+    S 78.1701 24.7223
+      78.1701 24.7223
+    S 81.8684 22.3583
+      83.5068 22.5982
+    C 85.1453 22.8410
+      89.7535 22.5982
+      90.7249 22.7796
+    C 91.6962 22.9610
+      92.3633 23.3267
+      91.4534 24.2952
+    S 88.4807 27.0864
+      87.5708 27.9349
+    S 80.5342 30.1790
+      78.2901 30.1790
+    S 75.9845 30.9661
+      75.9845 30.9661
+    S 76.8945 31.6332
+      76.7131 32.6630
+    S 76.2274 34.1201
+      76.2274 34.1201
+    S 77.6230 33.8158
+      79.7442 37.1513
+    C 81.8684 40.4867
+      84.4138 44.0650
+      86.4151 45.9463
+    S 89.9319 50.4345
+      90.7219 53.5271
+    C 91.5089 56.6197
+      91.8805 57.5297
+      91.8805 57.5297
+    S 92.3048 56.8772
+      93.0743 57.2546
+    C 94.0691 57.7403
+      95.0053 59.3525
+      93.3669 61.2337
+    S 89.6891 63.8377
+      88.2935 63.7148
+    C 88.2935 65.2919
+      86.3536 66.5061
+      84.7766 67.2317
+    C 83.1996 67.9602
+      81.3797 67.8373
+      81.1983 68.1416
+    C 81.0169 68.4459
+      76.2244 70.5057
+      75.2560 70.5057
+    C 74.2846 70.5057
+      71.0106 69.2915
+      71.1306 68.5659
+    C 71.2505 67.8373
+      74.2846 65.8975
+      75.4374 65.7746
+    C 72.7076 65.5932
+      71.0106 66.2603
+      68.9479 66.3803
+    C 66.8852 66.5003
+      65.4311 66.2603
+      65.6739 65.5318
+    C 65.9167 64.8033
+      67.7366 63.2262
+      70.1621 62.8020
+    C 72.5876 62.3777
+      74.3431 62.3953
+      75.0717 62.2344
+    C 75.8002 62.0735
+      75.7417 61.3449
+      75.7417 61.3449
+    S 73.8604 60.0722
+      73.9833 58.0709
+    C 74.1032 56.0696
+      74.2876 51.2772
+      73.6790 51.5814
+    C 73.0733 51.8857
+      73.4361 54.0070
+      73.1318 54.5541
+    C 72.8276 55.1012
+      70.5249 56.6782
+      69.2493 56.3125
+    C 67.9765 55.9497
+      67.5523 52.2485
+      67.8537 50.4901
+    C 68.1579 48.7317
+      68.4593 46.0019
+      68.2165 45.1534
+    C 67.9736 44.3049
+      66.7594 42.1808
+      66.8208 40.7266
+    C 66.8823 39.2696
+      67.7308 38.6025
+      67.7308 37.8154
+    S 67.0637 34.4800
+      66.7594 34.1757
+    S 63.9097 32.3558
+      63.5439 31.6887
+    S 61.6626 28.8390
+      61.2998 28.0490
+    S 61.1184 25.4421
+      63.7868 24.5907
+    S 70.5279 22.1740
+      73.8048 25.2666
+    Z"/>
+</svg>
